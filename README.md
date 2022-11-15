@@ -11,11 +11,14 @@
 
 [![Revved up by Gradle Enterprise](https://img.shields.io/badge/Revved%20up%20by-Gradle%20Enterprise-06A0CE?logo=Gradle&labelColor=02303A)](https://ge.solutions-team.gradle.com/scans)
 
-The purpose of the build optimization experiments is to provide a well-defined, reproducible approach to optimizing the performance of your Gradle and Maven builds.
+## Customer Documents (in progress)
 
-## Usage 
-
-This project is currently in progress and will be released soon.
+ - Connect builds to Gradle Enterprise
+ - Capture baseline
+ - Optimize build settings and configuration
+ - Optimize for build caching
+ - Optimize for Test Distribution
+ - Optimize for Predictive Test Selection
 
 ## Learn more
 
